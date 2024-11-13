@@ -1,0 +1,6 @@
+projectKey=PaymentProcessingSystem:AbstractPayment
+serverUrl=http://localhost:9000
+serverVersion=7.0.0.36138
+dashboardUrl=http://localhost:9000/dashboard/index/PaymentProcessingSystem:AbstractPayment
+ceTaskId=AZMlLqLc3lBamon-Po9k
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AZMlLqLc3lBamon-Po9k
